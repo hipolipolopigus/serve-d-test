@@ -3,7 +3,7 @@
 	"targetPath": "bin",
 	"sourcePath": "source/app",
 	"dependencies": {
-		
+		"dub": "1.4.1"
 	},
 	"subPackages": [
 		{
