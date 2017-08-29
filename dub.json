@@ -1,0 +1,16 @@
+{
+	"name": "serve-d-test",
+	"targetPath": "bin",
+	"sourcePath": "source/app",
+	"dependencies": {
+		
+	},
+	"subPackages": [
+		{
+			"name": "lib",
+			"targetPath": "bin",
+			"targetType": "staticLibrary",
+			"sourcePath": "source/lib"
+		}
+	]
+}
