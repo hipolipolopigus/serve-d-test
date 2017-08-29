@@ -3,7 +3,7 @@
 	"targetPath": "bin",
 	"sourcePath": "source/app",
 	"dependencies": {
-		
+		"serve-d-test:lib": "*"
 	},
 	"subPackages": [
 		{
